@@ -1,0 +1,127 @@
+references:
+  - "https://en.wikipedia.org/wiki/Suzuki_SX4"
+
+generations:
+  - name: "First Generation (Pre-Facelift)"
+    start_year: 2006
+    end_year: 2009
+    description: "First generation Suzuki SX4 introduced December 2005 at Geneva Motor Show. Available as five-door hatchback crossover and sedan. Designed by Giorgetto Giugiaro at Italdesign. Built on Suzuki A-Segment Platform. Joint development with Fiat (sold as Sedici). Standard features include intelligent All Wheel Drive (iAWD) system with three modes."
+    platform: "Suzuki A-Segment Platform"
+    body_styles:
+      - "5-door hatchback"
+      - "4-door sedan"
+    drivetrains:
+      - "Front-wheel drive"
+      - "All-wheel drive (iAWD)"
+    engines:
+      - "1.5L VVT gasoline"
+      - "1.6L VVT gasoline"
+      - "1.9L DDiS diesel"
+      - "2.0L gasoline (North America)"
+
+  - name: "First Generation (2010 Facelift)"
+    start_year: 2010
+    end_year: 2011
+    description: "Facelift updates including new grille, instrument cluster, climate controls, and door trim. Restructured cargo hold with 'arena seating' raised rear seat layout. Updated engines meeting Euro 5 emissions. New SportBack model offered with sport-tuned suspension and body kit."
+    platform: "Suzuki A-Segment Platform"
+    body_styles:
+      - "5-door hatchback"
+      - "4-door sedan"
+    drivetrains:
+      - "Front-wheel drive"
+      - "All-wheel drive (iAWD)"
+    engines:
+      - "1.6L DOHC VVT gasoline"
+      - "2.0L DOHC VVT gasoline (J20B)"
+      - "2.0L DDiS diesel"
+
+  - name: "First Generation (2012 Facelift)"
+    start_year: 2012
+    end_year: 2013
+    description: "Second facelift with new front bumper and wider grille. New RC1 variant launched in Indonesia with accessories, bumpers, rear spoiler, twin mufflers, 17-inch wheels and LED headlamps. Stability control and rear disc brakes became standard on US models."
+    platform: "Suzuki A-Segment Platform"
+    body_styles:
+      - "5-door hatchback"
+      - "4-door sedan"
+    drivetrains:
+      - "Front-wheel drive"
+      - "All-wheel drive (iAWD)"
+    engines:
+      - "1.6L DOHC VVT gasoline"
+      - "2.0L DOHC VVT gasoline"
+      - "2.0L DDiS diesel"
+
+  - name: "First Generation (Final Facelift)"
+    start_year: 2014
+    end_year: 2014
+    description: "Final production year for first generation in most markets except China. Redesigned front fascia and navigation added as optional feature on US models. Last model year for US and Canada sales."
+    platform: "Suzuki A-Segment Platform"
+    body_styles:
+      - "5-door hatchback"
+      - "4-door sedan"
+    drivetrains:
+      - "Front-wheel drive"
+      - "All-wheel drive (iAWD)"
+    engines:
+      - "1.6L DOHC VVT gasoline"
+      - "2.0L DOHC VVT gasoline"
+      - "2.0L DDiS diesel"
+
+  - name: "Second Generation (Pre-Facelift)"
+    start_year: 2013
+    end_year: 2016
+    description: "All-new second generation SX4 S-Cross unveiled at Geneva Motor Show 2013. Larger subcompact crossover SUV built on Suzuki Global C platform. Standard FWD with optional AllGrip AWD system. Five-star Euro NCAP safety rating. Produced alongside first generation until 2014."
+    platform: "Suzuki Global C Platform"
+    body_styles:
+      - "5-door SUV"
+    drivetrains:
+      - "Front-wheel drive"
+      - "All-wheel drive (AllGrip)"
+    engines:
+      - "1.6L M16A gasoline"
+      - "1.6L turbo-diesel Multijet"
+    transmissions:
+      - "5-speed manual"
+      - "6-speed manual"
+      - "CVT"
+
+  - name: "Second Generation (2016 Facelift)"
+    start_year: 2017
+    end_year: 2020
+    description: "Facelifted SX4 S-Cross with new front-end design, LED daytime running lights, updated interior with soft-touch dashboard. New Boosterjet turbo engines introduced: 1.0L K10C and 1.4L K14C. Mild hybrid (SHVS) system added in 2020 with 48V lithium-ion battery and Integrated Starter Generator."
+    platform: "Suzuki Global C Platform"
+    body_styles:
+      - "5-door SUV"
+    drivetrains:
+      - "Front-wheel drive"
+      - "All-wheel drive (AllGrip)"
+    engines:
+      - "1.0L K10C Boosterjet turbo"
+      - "1.4L K14C Boosterjet turbo"
+      - "1.6L M16A gasoline (non-European markets)"
+      - "1.3L DDiS 200 diesel (India)"
+      - "1.6L DDiS 320 diesel"
+    transmissions:
+      - "5-speed manual"
+      - "6-speed manual"
+      - "6-speed automatic"
+      - "CVT (pre-facelift)"
+      - "6-speed twin-clutch automated manual (TCSS)"
+
+  - name: "Third Generation"
+    start_year: 2021
+    end_year: 2025
+    description: "Third generation SX4 S-Cross unveiled November 2021. Heavily based on previous generation with major exterior makeover and updated interior dashboard. Carried over 1.4L K14D Boosterjet mild hybrid engine with 48V ISG system. Continues to be manufactured by Magyar Suzuki in Hungary for European and global markets."
+    platform: "Suzuki Global C Platform"
+    body_styles:
+      - "5-door SUV"
+    drivetrains:
+      - "Front-wheel drive"
+      - "All-wheel drive (AllGrip)"
+    engines:
+      - "1.4L K14D Boosterjet mild hybrid"
+      - "1.5L K15C Dualjet mild hybrid (non-European markets)"
+    transmissions:
+      - "6-speed manual"
+      - "6-speed automatic"
+      - "6-speed Auto Gear Shift (AMT)"
